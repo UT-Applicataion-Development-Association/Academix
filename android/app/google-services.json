@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029745407412",
+    "project_id": "academix-flutter",
+    "storage_bucket": "academix-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029745407412:android:b7a4d01cffc5eabf8eaee1",
+        "android_client_info": {
+          "package_name": "com.example.academix_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029745407412-vs5pq52jargs95fps6bfgq6lpef66500.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7W5ykcfHR5Ux7An0ZgZzS8U-ZQNT2IAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029745407412-vs5pq52jargs95fps6bfgq6lpef66500.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
