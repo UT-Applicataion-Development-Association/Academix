@@ -1,3 +1,4 @@
+import 'package:academix_flutter/chat/index.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -12,9 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
     Text(
       'Index 0: Home',
     ),
-    Text(
-      'Index 1: Friends',
-    ),
+    ChatScreen(),
     Text(
       'Index 2: Plan',
     ),
